@@ -1,0 +1,8 @@
+{
+    "title": "Fantasy Premier League ML Predictions",
+    "description": "This project aims to predict Fantasy Premier League (FPL) points using machine learning techniques. By analyzing historical player data and various features such as player performance, team fixtures, and player attributes, we can build models that can predict the number of points a player is likely to score in future FPL gameweeks.",
+    "type": "Machine Learning",
+    "photo": "",
+    "tags": "Python, Machine Learning, Fantasy Premier League, Data Analysis",
+    "related_projects": ""
+}
